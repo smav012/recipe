@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #ingredients li {
     margin-top: .3em;
+    margin-left: 1em;
     line-height: 1.5;
     color: chocolate;
 }
@@ -39,4 +40,8 @@ h1, h2, h3, h4, h5, h6 {
     align-items: left;
     width: auto;
     max-width: 100%;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 4em;
 }
