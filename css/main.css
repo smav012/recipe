@@ -14,7 +14,7 @@ body {
 }
 
 @font-face {
-    font-family: "Gastromond"; src:"fonts/Gastromond.ttf","fonts/Gastromond Italic.ttf"
+    font-family: "Gastromond";
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,11 +56,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerimage {
-    align-items: left;
     width: auto;
     max-width: 100%;
     padding-top: 2em;
-    padding-left: auto;
     padding-right: 8em;
     padding-bottom: 5em;
     margin-left: auto;
